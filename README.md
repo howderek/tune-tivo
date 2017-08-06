@@ -3,6 +3,7 @@
 Control your TiVo from the command line. I wrapped [tivo-remote](https://github.com/forty2/tivo-remote) with [commander](https://github.com/tj/commander.js/) and called it a day.
 
 Tune to channel 42: `tune-tivo 42`
+
 Go to the guide: `tune-tivo -t guide`
 
 Usage:

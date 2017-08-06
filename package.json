@@ -1,0 +1,14 @@
+{
+  "name": "tune-tivo",
+  "version": "0.0.1",
+  "description": "Control your TiVo from the Command Line",
+  "main": "index.js",
+  "author": "Derek Howard",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0"
+  },
+  "bin": {
+    "tune-tivo": "index.js"
+  }
+}
